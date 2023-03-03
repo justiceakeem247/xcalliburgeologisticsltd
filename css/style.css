@@ -1963,6 +1963,10 @@ h5,
   font-size: 12px;
   text-transform: uppercase;
 }
+.text-muted-muted {
+  color: #ccc !important;
+  font-size: 30px;
+}
 
 .how-it-work-item .number {
   width: 50px;
