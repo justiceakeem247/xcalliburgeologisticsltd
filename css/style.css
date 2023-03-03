@@ -1965,7 +1965,8 @@ h5,
 }
 .text-muted-muted {
   color: #ccc !important;
-  font-size: 30px;
+  font-size: 25px;
+  font-family: Poppins;
 }
 
 .how-it-work-item .number {
